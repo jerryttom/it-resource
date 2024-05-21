@@ -21,7 +21,7 @@
 09 完结无密 [[入门精通\]](https://www.itjc8.com/forum.php?mod=forumdisplay&fid=43&filter=typeid&typeid=74) 尚硅谷2024年4月版本Java全端工程师线下就业班
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：jerryttom
 
 全网课程都有，欢迎私聊
 

@@ -13,7 +13,7 @@
 05 更新 [数据技术讲堂【训练营6期】深度学习实战](https://appze9inzwc2314.pc.xiaoe-tech.com/p/t_pc/goods_pc_detail/goods_detail/p_63a5a369e4b030cacafeb21f?fromH5=true&type=3)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：jerryttom
 
 全网课程都有，欢迎私聊
 

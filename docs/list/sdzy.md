@@ -65,7 +65,7 @@
 完结 [深度之眼【1v6】生物序列理解——原理、前沿与应用](https://ai.deepshare.net/p/t_pc/goods_pc_detail/goods_detail/p_65b0d009e4b064a83b8ddc93?)
 
 ::: tip
-联系方式：微信：L20230109520
+联系方式：微信：jerryttom
 
 全网课程都有，欢迎私聊
 
