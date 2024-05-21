@@ -69,6 +69,6 @@
 
 [**友凡**](./list/youfan.md) [**CTO训练营**](./list/CTOtrain.md) [**风哥数据库**](./list/fengge.md) [**夏曹俊老师**](./list/xiajuncao.md)
 
-![](https://www.itpromise.cloud/cover.png)
+![](cover.png)
 
 <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2022090061号-1</a>

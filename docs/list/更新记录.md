@@ -295,7 +295,7 @@ Web前端‮栈全‬工程师2022
 
 完结 [九章算法面试高频题冲刺班2022](https://www.jiuzhang.com/course/80)
 
-系列课 [【百战程序员】](https://www.itpromise.cloud/list/baizhan.html)
+系列课 [【百战程序员】](list/baizhan.html)
 
 **2022/11/9**
 
@@ -767,7 +767,7 @@ Web前端‮栈全‬工程师2022
 
 **2022/9/14**
 
-**`9月批量更新`** [程序员在囧途](https://www.itpromise.cloud/list/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%9B%A7%E9%80%94.html#%E7%83%AD%E6%9B%B4%E6%8E%A8%E8%8D%90)
+**`9月批量更新`** [程序员在囧途](list/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E5%9B%A7%E9%80%94.html#%E7%83%AD%E6%9B%B4%E6%8E%A8%E8%8D%90)
 
 **2022/9/13**
 

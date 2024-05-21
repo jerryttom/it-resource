@@ -560,7 +560,7 @@ https://zhaoxi.ke.qq.com/?catagoryId=gen_21221&activeTab=head_course)
 
 更新 [极客时间AI 大模型应用开发实战营](https://u.geekbang.org/subject/llm)
 
-推荐 [深博高端运维+网络安全](https://www.itpromise.cloud/list/51CTO.html)
+推荐 [深博高端运维+网络安全](list/51CTO.html)
 
 完结 [【bubucuo】全栈低代码项目](https://appuwwsm6cl6690.h5.xiaoeknow.com/v1/goods/goods_detail/p_643817b1e4b0cf39e6bb50a6?type=3)
 
